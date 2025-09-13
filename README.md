@@ -1,4 +1,7 @@
-![logo](https://github.com/SHAKI-cell/SHAKI-cell/blob/main/866d6bec5cf1a4d9655626182659df11.png)
+<p align="center">
+  <img src="https://github.com/SHAKI-cell/SHAKI-cell/blob/main/866d6bec5cf1a4d9655626182659df11.png?raw=true" width="400" alt="logo"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm SHAKIB KHAN</h1>
 <h3 align="center">I'm am currently studying in computer science</h3>
 
