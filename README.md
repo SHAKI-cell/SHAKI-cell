@@ -9,7 +9,7 @@
 <h1 align="center">Hi 👋, I'm SHAKIB KHAN</h1>
 <h3 align="center">I am currently studying Computer Science</h3>
 
-<img align="right" alt="coding" width="400"
+<img align="right" alt="coding" width="400" height="210"
 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 - 🔭 I’m currently working on [LEETCODE](https://leetcode.com/u/shakib_12/)
