@@ -1,7 +1,15 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
+<!-- ═══════════════════ CREATIVE HEADER BANNER ═══════════════════ -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,25:161b22,50:1c2333,75:1a3a5c,100:58a6ff&height=300&section=header&text=SHAKIB%20KHAN&fontSize=70&fontColor=58a6ff&fontAlignY=40&desc=AWS%20Certified%20Cloud%20Practitioner%20%7C%20Full%20Stack%20Developer%20%7C%20Flutter%20Developer&descSize=16&descColor=8b949e&descAlignY=62&animation=fadeIn" width="100%"/>
+  <a href="https://github.com/SHAKI-cell">
+    <img src="https://skillicons.dev/icons?i=aws,react,flutter,nodejs,python,cpp,mongodb,js,docker,git,linux,express,dart,tailwind,css,html,firebase,mysql&perline=18&theme=dark" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,25:161b22,50:1c2333,75:1a3a5c,100:58a6ff&height=200&section=header&text=SHAKIB%20KHAN&fontSize=70&fontColor=58a6ff&fontAlignY=45&animation=fadeIn" width="100%"/>
 </p>
 
 <div align="center">
@@ -72,24 +80,24 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shaki-cell&theme=tokyonight" width="100%" />
 </p>
 
-<p align="left" style="font-size: 1.15rem; line-height: 1.9;">
+<p align="left">
 
-💻 <b>I'm Shakib Khan</b>, a <b>B.Tech Computer Science & Engineering student</b> passionate about building <b>scalable full-stack web applications</b>, <b>cross-platform mobile apps with Flutter</b>, and <b>cloud-native solutions on AWS</b>.
+💻 **I'm Shakib Khan**, a **B.Tech Computer Science & Engineering student** passionate about building **scalable full-stack web applications**, **cross-platform mobile apps with Flutter**, and **cloud-native solutions on AWS**.
 
-⚡ I primarily work with <b>React</b>, <b>Node.js</b>, <b>Express.js</b>, <b>MongoDB</b>, <b>Flutter/Dart</b>, <b>Python</b>, and <b>C++</b>, transforming ideas into <b>production-grade applications</b> with clean UI and efficient architecture.
+⚡ I primarily work with **React**, **Node.js**, **Express.js**, **MongoDB**, **Flutter/Dart**, **Python**, and **C++**, transforming ideas into **production-grade applications** with clean UI and efficient architecture.
 
-🚀 My interests include <b>Cloud Architecture (AWS)</b>, <b>Cross-Platform Mobile Development</b>, <b>Full Stack Engineering</b>, and <b>Competitive Programming</b>, where I continuously solve problems and build real-world solutions.
+🚀 My interests include **Cloud Architecture (AWS)**, **Cross-Platform Mobile Development**, **Full Stack Engineering**, and **Competitive Programming**, where I continuously solve problems and build real-world solutions.
 
-☁️ I'm <b>AWS Certified Cloud Practitioner</b> with hands-on experience in deploying and managing cloud services, and have solved <b>343+ problems on LeetCode</b>.
+☁️ I'm **AWS Certified Cloud Practitioner** with hands-on experience in deploying and managing cloud services, and have solved **343+ problems on LeetCode**.
 
-<h3>🎯 Currently Focused On</h3>
+</p>
 
-<ul>
-  <li>⚡ Building impactful <b>Full Stack & Flutter applications</b></li>
-  <li>☁️ Deepening expertise in <b>AWS cloud services & architecture</b></li>
-  <li>🧠 Strengthening <b>DSA & problem-solving skills</b> (LeetCode & Codeforces)</li>
-  <li>🌍 Open to <b>internships, collaborations & freelance projects</b></li>
-</ul>
+### 🎯 Currently Focused On
+
+- ⚡ Building impactful **Full Stack & Flutter applications**
+- ☁️ Deepening expertise in **AWS cloud services & architecture**
+- 🧠 Strengthening **DSA & problem-solving skills** (LeetCode & Codeforces)
+- 🌍 Open to **internships, collaborations & freelance projects**
 
 ✨ I enjoy learning by building, experimenting with emerging technologies, and continuously improving both my development and problem-solving abilities.
 
@@ -97,8 +105,6 @@
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif" width="500">
-</p>
-
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
@@ -152,20 +158,24 @@
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/Full_Stack-Web_Apps-58a6ff?style=for-the-badge&logo=react&logoColor=white" /><br/>
-<sub><b>React . Node.js . Express<br/>MongoDB . REST APIs</b></sub>
+<img src="https://img.shields.io/badge/Full_Stack-Web_Apps-58a6ff?style=for-the-badge&logo=react&logoColor=white" /><br><br>
+<b>React . Node.js . Express</b><br>
+<b>MongoDB . REST APIs</b>
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/Flutter-Mobile_Apps-02569B?style=for-the-badge&logo=flutter&logoColor=white" /><br/>
-<sub><b>Dart . Flutter . Firebase<br/>Cross-Platform Development</b></sub>
+<img src="https://img.shields.io/badge/Flutter-Mobile_Apps-02569B?style=for-the-badge&logo=flutter&logoColor=white" /><br><br>
+<b>Dart . Flutter . Firebase</b><br>
+<b>Cross-Platform Development</b>
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/REST-API_Development-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /><br/>
-<sub><b>Node.js . Express . Flask<br/>Authentication . CRUD</b></sub>
+<img src="https://img.shields.io/badge/REST-API_Development-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /><br><br>
+<b>Node.js . Express . Flask</b><br>
+<b>Authentication . CRUD</b>
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/Cloud-Applications-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" /><br/>
-<sub><b>AWS . Serverless<br/>Cloud Architecture</b></sub>
+<img src="https://img.shields.io/badge/Cloud-Applications-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" /><br><br>
+<b>AWS . Serverless</b><br>
+<b>Cloud Architecture</b>
 </td>
 </tr>
 </table>
@@ -205,27 +215,12 @@
   <img src="https://github-profile-trophy.vercel.app/?username=shaki-cell&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=2&column=5" width="100%" />
 </p>
 
-<table width="100%">
-<tr>
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=shaki-cell&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img width="49%" src="https://streak-stats.demolab.com?user=shaki-cell&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</div>
 
-<td align="left" width="50%">
-
-<img
-src="https://github-readme-stats.vercel.app/api?username=shaki-cell&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&ring_color=58a6ff"
-width="100%" />
-
-</td>
-
-<td align="right" width="50%">
-
-<img
-src="https://github-readme-streak-stats.herokuapp.com/?user=shaki-cell&theme=tokyonight&hide_border=true"
-width="100%" />
-
-</td>
-
-</tr>
-</table>
+<br>
 
 <div align="center">
   <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaki-cell&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages"/>
@@ -239,22 +234,18 @@ width="100%" />
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<p align="center">
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SHAKI-cell/SHAKI-cell/output/snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SHAKI-cell/SHAKI-cell/output/snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/SHAKI-cell/SHAKI-cell/output/snake-dark.svg" width="100%" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/SHAKI-cell/SHAKI-cell/output/snake.svg" width="100%" />
   </picture>
-</p>
+</div>
 
 <br>
 
 <div align="center">
-<img
-align="center"
-src="https://github-readme-activity-graph.vercel.app/graph?username=shaki-cell&bg_color=1A1B27&color=38BDF8&line=70A5FD&point=FFFFFF&area=true&hide_border=true&custom_title=Shakib%20Khan's%20Contribution%20Graph"
-width="100%"
-/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shaki-cell&bg_color=1A1B27&color=38BDF8&line=70A5FD&point=FFFFFF&area=true&hide_border=true&custom_title=Shakib%20Khan's%20Contribution%20Graph" width="100%" />
 </div>
 
 <br>
