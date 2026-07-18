@@ -1,4 +1,5 @@
 <img src="./assets/header.png" width="100%">
+<img src="./assets/header_divider.gif" width="100%">
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- 🌐  ANIMATED PLEXUS HEADER  (auto-switches dark ↔ light)     -->
