@@ -3,19 +3,13 @@
 <!-- ═══════════════════ CREATIVE HEADER BANNER ═══════════════════ -->
 
 <p align="center">
-  <a href="https://github.com/SHAKI-cell">
-    <img src="https://skillicons.dev/icons?i=aws,react,flutter,nodejs,python,cpp,mongodb,js,docker,git,linux,express,dart,tailwind,css,html,firebase,mysql&perline=18&theme=dark" />
-  </a>
-</p>
-
-<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,25:161b22,50:1c2333,75:1a3a5c,100:58a6ff&height=200&section=header&text=SHAKIB%20KHAN&fontSize=70&fontColor=58a6ff&fontAlignY=45&animation=fadeIn" width="100%"/>
 </p>
 
 <div align="center">
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=80&lines=Building+Scalable+Full-Stack%2C+Cloud+%26+Mobile+Applications;AWS+Certified+%E2%98%81%EF%B8%8F+%7C+343%2B+LeetCode+Problems+Solved+%F0%9F%92%AA" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=80&lines=%F0%9F%9A%80+Building+Full-Stack%2C+Cloud+%26+Mobile+Apps;%E2%98%81%EF%B8%8F+AWS+Certified+%7C+343%2B+LeetCode+Solved+%F0%9F%92%AA" alt="Typing SVG" />
   </a>
 
 </div>
@@ -212,7 +206,7 @@
 <br>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shaki-cell&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=2&column=5" width="100%" />
+  <img src="https://github-trophies.vercel.app/?username=shaki-cell&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=2&column=5" width="100%" />
 </p>
 
 <div align="center">
