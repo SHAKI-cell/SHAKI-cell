@@ -1,10 +1,8 @@
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<img src="./assets/header_divider.gif" width="100%">
+<img src="./assets/header.png" width="100%">
 
-<!-- ═══════════════════ CREATIVE HEADER BANNER ═══════════════════ -->
+<h1 align="center"><b>Hi there, I'm </b><a href="https://github.com/SHAKI-cell">Shakib Khan</a> 👋</h1>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,25:161b22,50:1c2333,75:1a3a5c,100:58a6ff&height=200&section=header&text=SHAKIB%20KHAN&fontSize=70&fontColor=58a6ff&fontAlignY=45&animation=fadeIn" width="100%"/>
-</p>
 
 <div align="center">
 
