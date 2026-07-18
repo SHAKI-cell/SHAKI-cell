@@ -27,25 +27,25 @@
 <tr border="0">
 
 <td border="0">
-<a href="https://shaki-cell.github.io/portfolio/" target="_blank">
+<a href="https://shaki-cell.github.io/portfolio/">
 <img src="https://img.shields.io/badge/PORTFOLIO-0d1117?style=for-the-badge&logo=googlechrome&logoColor=58a6ff"/>
 </a>
 </td>
 
 <td border="0">
-<a href="https://linkedin.com/in/shakib-khan-644765321" target="_blank">
+<a href="https://linkedin.com/in/shakib-khan-644765321">
 <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </td>
 
 <td border="0">
-<a href="https://leetcode.com/u/shakib_12/" target="_blank">
+<a href="https://leetcode.com/u/shakib_12/">
 <img src="https://img.shields.io/badge/LEETCODE-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 </td>
 
 <td border="0">
-<a href="https://codeforces.com/profile/shakib.2428cs1128" target="_blank">
+<a href="https://codeforces.com/profile/shakib.2428cs1128">
 <img src="https://img.shields.io/badge/CODEFORCES-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white"/>
 </a>
 </td>
@@ -64,9 +64,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=shaki-cell&label=Profile%20Views&color=58a6ff&style=for-the-badge" alt="Profile Views"/>
   &nbsp;
-  <a href="#">
-    <img src="https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=232F3E" alt="AWS Certified Cloud Practitioner" />
-  </a>
+  <img src="https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=232F3E" alt="AWS Certified Cloud Practitioner" />
 </div>
 
 <br>
@@ -286,16 +284,16 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <div align="center">
-  <a href="https://shaki-cell.github.io/portfolio/" target="_blank">
+  <a href="https://shaki-cell.github.io/portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-Visit_My_Work-58a6ff?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1117" alt="Portfolio"/>
   </a>&nbsp;
-  <a href="https://linkedin.com/in/shakib-khan-644765321" target="_blank">
+  <a href="https://linkedin.com/in/shakib-khan-644765321">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn"/>
   </a>&nbsp;
-  <a href="https://leetcode.com/u/shakib_12/" target="_blank">
+  <a href="https://leetcode.com/u/shakib_12/">
     <img src="https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white&labelColor=0d1117" alt="LeetCode"/>
   </a>&nbsp;
-  <a href="https://codeforces.com/profile/shakib.2428cs1128" target="_blank">
+  <a href="https://codeforces.com/profile/shakib.2428cs1128">
     <img src="https://img.shields.io/badge/Codeforces-Compete-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white&labelColor=0d1117" alt="Codeforces"/>
   </a>&nbsp;
   <a href="mailto:shakib73076@gmail.com">
