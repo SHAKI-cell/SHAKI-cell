@@ -216,14 +216,14 @@
 </p>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=shaki-cell&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-stats-two-blond-83.vercel.app/api?username=shaki-cell&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
   <img width="49%" src="https://streak-stats.demolab.com?user=shaki-cell&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 <br>
 
 <div align="center">
-  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaki-cell&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages"/>
+  <img width="35%" src="https://github-readme-stats-two-blond-83.vercel.app/api/top-langs/?username=shaki-cell&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages"/>
 </div>
 
 <br>
