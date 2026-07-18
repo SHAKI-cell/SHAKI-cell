@@ -1,14 +1,23 @@
-<img src="./assets/header_divider.gif" width="100%">
-<img src="./assets/header.png" width="100%">
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- 🌐  ANIMATED PLEXUS HEADER  (auto-switches dark ↔ light)     -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg"/>
+  <img alt="Shakib Khan - Full Stack Developer" src="./assets/header-dark.svg" width="100%"/>
+</picture>
 
 <h1 align="center"><b>Hi there, I'm </b><a href="https://github.com/SHAKI-cell">Shakib Khan</a> 👋</h1>
 
 
 <div align="center">
 
-  <a href="https://git.io/typing-svg">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=80&lines=%F0%9F%9A%80+Building+Full-Stack%2C+Cloud+%26+Mobile+Apps;%E2%98%81%EF%B8%8F+AWS+Certified+%7C+343%2B+LeetCode+Solved+%F0%9F%92%AA"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1200&color=1E40AF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=80&lines=%F0%9F%9A%80+Building+Full-Stack%2C+Cloud+%26+Mobile+Apps;%E2%98%81%EF%B8%8F+AWS+Certified+%7C+343%2B+LeetCode+Solved+%F0%9F%92%AA"/>
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=80&lines=%F0%9F%9A%80+Building+Full-Stack%2C+Cloud+%26+Mobile+Apps;%E2%98%81%EF%B8%8F+AWS+Certified+%7C+343%2B+LeetCode+Solved+%F0%9F%92%AA" alt="Typing SVG" />
-  </a>
+  </picture>
 
 </div>
 
@@ -69,7 +78,11 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shaki-cell&theme=tokyonight" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shaki-cell&theme=tokyonight"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shaki-cell&theme=default"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shaki-cell&theme=tokyonight" width="100%" alt="Profile Details"/>
+  </picture>
 </p>
 
 <p align="left">
@@ -183,7 +196,11 @@
 
 <div align="center">
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/shakib_12?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0)](https://leetcode.com/u/shakib_12/)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/shakib_12?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://leetcard.jacoblin.cool/shakib_12?theme=light&font=JetBrains%20Mono&ext=heatmap&border=0"/>
+  <img src="https://leetcard.jacoblin.cool/shakib_12?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0" alt="LeetCode Stats"/>
+</picture>
 
 <br>
 
@@ -204,18 +221,34 @@
 <br>
 
 <p align="center">
-  <img src="https://github-trophies.vercel.app/?username=shaki-cell&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=2&column=5" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-trophies.vercel.app/?username=shaki-cell&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=2&column=5"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-trophies.vercel.app/?username=shaki-cell&theme=flat&no-frame=true&no-bg=true&margin-w=15&row=2&column=5"/>
+    <img src="https://github-trophies.vercel.app/?username=shaki-cell&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=2&column=5" width="100%" alt="GitHub Trophies"/>
+  </picture>
 </p>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats-two-blond-83.vercel.app/api?username=shaki-cell&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://streak-stats.demolab.com?user=shaki-cell&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-two-blond-83.vercel.app/api?username=shaki-cell&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-two-blond-83.vercel.app/api?username=shaki-cell&show_icons=true&theme=default&hide_border=true&count_private=true"/>
+    <img width="49%" src="https://github-readme-stats-two-blond-83.vercel.app/api?username=shaki-cell&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=shaki-cell&theme=tokyonight&hide_border=true"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=shaki-cell&theme=default&hide_border=true"/>
+    <img width="49%" src="https://streak-stats.demolab.com?user=shaki-cell&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  </picture>
 </div>
 
 <br>
 
 <div align="center">
-  <img width="35%" src="https://github-readme-stats-two-blond-83.vercel.app/api/top-langs/?username=shaki-cell&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-two-blond-83.vercel.app/api/top-langs/?username=shaki-cell&layout=compact&hide_border=true&theme=tokyonight"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-two-blond-83.vercel.app/api/top-langs/?username=shaki-cell&layout=compact&hide_border=true&theme=default"/>
+    <img width="35%" src="https://github-readme-stats-two-blond-83.vercel.app/api/top-langs/?username=shaki-cell&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages"/>
+  </picture>
 </div>
 
 <br>
@@ -237,7 +270,11 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shaki-cell&bg_color=1A1B27&color=38BDF8&line=70A5FD&point=FFFFFF&area=true&hide_border=true&custom_title=Shakib%20Khan's%20Contribution%20Graph" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=shaki-cell&bg_color=1A1B27&color=38BDF8&line=70A5FD&point=FFFFFF&area=true&hide_border=true&custom_title=Shakib%20Khan's%20Contribution%20Graph"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=shaki-cell&bg_color=ffffff&color=1e293b&line=3b82f6&point=1e40af&area=true&hide_border=true&custom_title=Shakib%20Khan's%20Contribution%20Graph"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=shaki-cell&bg_color=1A1B27&color=38BDF8&line=70A5FD&point=FFFFFF&area=true&hide_border=true&custom_title=Shakib%20Khan's%20Contribution%20Graph" width="100%" alt="Contribution Graph"/>
+  </picture>
 </div>
 
 <br>
@@ -270,7 +307,11 @@
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1a3a5c,100:0d1117&height=120&section=footer" width="100%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1a3a5c,100:0d1117&height=120&section=footer"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:93c5fd,50:bfdbfe,100:f0f9ff&height=120&section=footer"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1a3a5c,100:0d1117&height=120&section=footer" width="100%" alt="Footer"/>
+  </picture>
 
 </div>
 

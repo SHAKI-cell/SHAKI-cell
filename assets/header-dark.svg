@@ -1,0 +1,168 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="100%">
+<defs>
+<style>
+@keyframes pulse1 { 0%, 100% { opacity: 0.25; } 50% { opacity: 1; } }
+@keyframes pulse2 { 0%, 100% { opacity: 0.3; } 50% { opacity: 0.9; } }
+@keyframes glowPulse { 0%, 100% { opacity: 0.06; } 50% { opacity: 0.18; } }
+@keyframes dash { to { stroke-dashoffset: -200; } }
+@keyframes fadeIn { 0% { opacity: 0; } 100% { opacity: 1; } }
+
+.node { fill: #58a6ff; }
+.node-accent { fill: #a78bfa; }
+.node-sm { fill: #58a6ff; opacity: 0.45; }
+.node-sm-accent { fill: #a78bfa; opacity: 0.4; }
+
+.p1 { animation: pulse1 3.5s ease-in-out infinite; }
+.p2 { animation: pulse1 3.5s ease-in-out 0.5s infinite; }
+.p3 { animation: pulse2 4s ease-in-out 1s infinite; }
+.p4 { animation: pulse1 3.5s ease-in-out 1.5s infinite; }
+.p5 { animation: pulse2 4s ease-in-out 2s infinite; }
+.p6 { animation: pulse1 3.5s ease-in-out 2.5s infinite; }
+.p7 { animation: pulse2 4s ease-in-out 0.3s infinite; }
+.p8 { animation: pulse1 3.5s ease-in-out 1.8s infinite; }
+
+.net-line { stroke: #58a6ff; stroke-width: 0.6; fill: none; opacity: 0.1; stroke-dasharray: 6 4; animation: dash 25s linear infinite; }
+.net-line-accent { stroke: #a78bfa; stroke-width: 0.5; fill: none; opacity: 0.07; stroke-dasharray: 4 6; animation: dash 30s linear infinite; }
+
+.ambient { animation: glowPulse 5s ease-in-out infinite; }
+.a2 { animation-delay: 1.8s; }
+.a3 { animation-delay: 3.5s; }
+
+.title { fill: url(#titleGrad); font-family: 'Segoe UI', system-ui, -apple-system, sans-serif; font-size: 54px; font-weight: 800; letter-spacing: 10px; animation: fadeIn 1s ease-out; }
+.subtitle { fill: #8b949e; font-family: 'Segoe UI', system-ui, sans-serif; font-size: 13.5px; font-weight: 400; letter-spacing: 4.5px; animation: fadeIn 1.5s ease-out; }
+.accent-line { animation: fadeIn 2s ease-out; }
+</style>
+
+<linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+<stop offset="0%" stop-color="#0d1117"/>
+<stop offset="35%" stop-color="#0f1419"/>
+<stop offset="65%" stop-color="#10151c"/>
+<stop offset="100%" stop-color="#0d1117"/>
+</linearGradient>
+
+<linearGradient id="titleGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+<stop offset="0%" stop-color="#58a6ff"/>
+<stop offset="40%" stop-color="#a78bfa"/>
+<stop offset="70%" stop-color="#7c3aed"/>
+<stop offset="100%" stop-color="#58a6ff"/>
+</linearGradient>
+
+<linearGradient id="accentLine" x1="0%" y1="0%" x2="100%" y2="0%">
+<stop offset="0%" stop-color="#58a6ff" stop-opacity="0"/>
+<stop offset="30%" stop-color="#58a6ff" stop-opacity="0.5"/>
+<stop offset="50%" stop-color="#a78bfa" stop-opacity="0.6"/>
+<stop offset="70%" stop-color="#58a6ff" stop-opacity="0.5"/>
+<stop offset="100%" stop-color="#58a6ff" stop-opacity="0"/>
+</linearGradient>
+
+<radialGradient id="glow1"><stop offset="0%" stop-color="#58a6ff" stop-opacity="0.35"/><stop offset="100%" stop-color="#58a6ff" stop-opacity="0"/></radialGradient>
+<radialGradient id="glow2"><stop offset="0%" stop-color="#a78bfa" stop-opacity="0.25"/><stop offset="100%" stop-color="#a78bfa" stop-opacity="0"/></radialGradient>
+</defs>
+
+<!-- Background -->
+<rect width="1200" height="320" fill="url(#bg)"/>
+
+<!-- Ambient glow -->
+<circle class="ambient" cx="130" cy="160" r="130" fill="url(#glow1)"/>
+<circle class="ambient a2" cx="600" cy="140" r="170" fill="url(#glow2)"/>
+<circle class="ambient a3" cx="1070" cy="160" r="130" fill="url(#glow1)"/>
+
+<!-- Network lines - Left cluster -->
+<line class="net-line" x1="50" y1="60" x2="160" y2="40"/>
+<line class="net-line" x1="50" y1="60" x2="100" y2="160"/>
+<line class="net-line-accent" x1="100" y1="160" x2="180" y2="120"/>
+<line class="net-line" x1="100" y1="160" x2="65" y2="240"/>
+<line class="net-line" x1="160" y1="40" x2="180" y2="120"/>
+<line class="net-line-accent" x1="180" y1="120" x2="140" y2="260"/>
+<line class="net-line" x1="65" y1="240" x2="140" y2="260"/>
+<line class="net-line" x1="50" y1="60" x2="30" y2="140"/>
+<line class="net-line-accent" x1="30" y1="140" x2="65" y2="240"/>
+<line class="net-line" x1="140" y1="260" x2="80" y2="290"/>
+
+<!-- Network lines - Top arc -->
+<line class="net-line" x1="160" y1="40" x2="330" y2="30"/>
+<line class="net-line-accent" x1="330" y1="30" x2="480" y2="22"/>
+<line class="net-line" x1="480" y1="22" x2="680" y2="28"/>
+<line class="net-line-accent" x1="680" y1="28" x2="830" y2="35"/>
+<line class="net-line" x1="830" y1="35" x2="1000" y2="65"/>
+
+<!-- Network lines - Bottom arc -->
+<line class="net-line-accent" x1="140" y1="260" x2="360" y2="268"/>
+<line class="net-line" x1="360" y1="268" x2="500" y2="275"/>
+<line class="net-line-accent" x1="500" y1="275" x2="660" y2="270"/>
+<line class="net-line" x1="660" y1="270" x2="850" y2="260"/>
+<line class="net-line-accent" x1="850" y1="260" x2="1020" y2="248"/>
+
+<!-- Network lines - Right cluster -->
+<line class="net-line" x1="1000" y1="65" x2="1120" y2="48"/>
+<line class="net-line-accent" x1="1000" y1="65" x2="1060" y2="155"/>
+<line class="net-line" x1="1060" y1="155" x2="1105" y2="190"/>
+<line class="net-line-accent" x1="1060" y1="155" x2="1020" y2="248"/>
+<line class="net-line" x1="1120" y1="48" x2="1155" y2="115"/>
+<line class="net-line-accent" x1="1155" y1="115" x2="1105" y2="190"/>
+<line class="net-line" x1="1020" y1="248" x2="1105" y2="190"/>
+<line class="net-line" x1="1155" y1="115" x2="1170" y2="55"/>
+<line class="net-line-accent" x1="1105" y1="190" x2="1140" y2="270"/>
+<line class="net-line" x1="1020" y1="248" x2="1140" y2="270"/>
+
+<!-- Network lines - Cross connections -->
+<line class="net-line-accent" x1="330" y1="30" x2="280" y2="120"/>
+<line class="net-line" x1="680" y1="28" x2="730" y2="155"/>
+<line class="net-line-accent" x1="830" y1="35" x2="880" y2="130"/>
+<line class="net-line" x1="360" y1="268" x2="280" y2="120"/>
+<line class="net-line-accent" x1="280" y1="120" x2="430" y2="170"/>
+<line class="net-line" x1="730" y1="155" x2="880" y2="130"/>
+<line class="net-line-accent" x1="480" y1="22" x2="430" y2="170"/>
+<line class="net-line" x1="660" y1="270" x2="730" y2="155"/>
+<line class="net-line" x1="850" y1="260" x2="880" y2="130"/>
+
+<!-- Nodes - Left cluster -->
+<circle class="node p1" cx="50" cy="60" r="4.5"/>
+<circle class="node-accent p2" cx="160" cy="40" r="3.5"/>
+<circle class="node p3" cx="100" cy="160" r="3.5"/>
+<circle class="node-sm p4" cx="65" cy="240" r="2.5"/>
+<circle class="node-accent p5" cx="180" cy="120" r="3"/>
+<circle class="node-sm-accent p6" cx="140" cy="260" r="2.5"/>
+<circle class="node-sm p7" cx="30" cy="140" r="2"/>
+<circle class="node-sm-accent p8" cx="80" cy="290" r="2"/>
+
+<!-- Nodes - Top arc -->
+<circle class="node-sm p3" cx="330" cy="30" r="2.5"/>
+<circle class="node-sm-accent p5" cx="480" cy="22" r="2"/>
+<circle class="node-sm p7" cx="680" cy="28" r="2.5"/>
+<circle class="node-sm-accent p1" cx="830" cy="35" r="2"/>
+
+<!-- Nodes - Bottom arc -->
+<circle class="node-sm-accent p6" cx="360" cy="268" r="2"/>
+<circle class="node-sm p2" cx="500" cy="275" r="2.5"/>
+<circle class="node-sm-accent p8" cx="660" cy="270" r="2"/>
+<circle class="node-sm p4" cx="850" cy="260" r="2.5"/>
+
+<!-- Nodes - Middle -->
+<circle class="node-sm p4" cx="280" cy="120" r="2.5"/>
+<circle class="node-sm-accent p1" cx="430" cy="170" r="2"/>
+<circle class="node-sm p6" cx="730" cy="155" r="2"/>
+<circle class="node-sm-accent p8" cx="880" cy="130" r="2.5"/>
+
+<!-- Nodes - Right cluster -->
+<circle class="node p2" cx="1000" cy="65" r="4.5"/>
+<circle class="node-accent p4" cx="1120" cy="48" r="3.5"/>
+<circle class="node p6" cx="1060" cy="155" r="3.5"/>
+<circle class="node-sm-accent p1" cx="1020" cy="248" r="2.5"/>
+<circle class="node-accent p3" cx="1155" cy="115" r="3"/>
+<circle class="node-sm p5" cx="1105" cy="190" r="2.5"/>
+<circle class="node-sm-accent p7" cx="1170" cy="55" r="2"/>
+<circle class="node-sm p8" cx="1140" cy="270" r="2"/>
+
+<!-- Title text -->
+<text class="title" x="600" y="148" text-anchor="middle">SHAKIB KHAN</text>
+
+<!-- Subtitle -->
+<text class="subtitle" x="600" y="188" text-anchor="middle">FULL STACK DEVELOPER  ·  CLOUD ENGINEER  ·  PROBLEM SOLVER</text>
+
+<!-- Accent line under subtitle -->
+<line class="accent-line" x1="420" y1="210" x2="780" y2="210" stroke="url(#accentLine)" stroke-width="1.2"/>
+
+<!-- Bottom fade -->
+<rect y="290" width="1200" height="30" fill="url(#bg)" opacity="0.5"/>
+</svg>
