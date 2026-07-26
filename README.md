@@ -60,7 +60,6 @@
   </picture>
 </p>
 
-<p align="left">
 
 💻 **I'm Shakib Khan**, a **B.Tech Computer Science & Engineering student** passionate about building **scalable full-stack web applications**, **cross-platform mobile apps with Flutter**, and **cloud-native solutions on AWS**.
 
@@ -70,7 +69,6 @@
 
 ☁️ I'm **AWS Certified Cloud Practitioner** with hands-on experience in deploying and managing cloud services, and have solved **343+ problems on LeetCode**.
 
-</p>
 
 ### 🎯 Currently Focused On
 
